@@ -31,7 +31,7 @@ From you Jupytehub web Terminal, run the following commands:
 ```console
 $ cd ~/bootcamp/python
 $ cat scripts/uname.py
-$ ansible-playbook -i runner<n>, -u ubuntu --private-key=~/.ssh/id_rsa_ubuntu run-python.yml
+$ ansible-playbook -i runner<n>.lab.mpt.local, -u ubuntu --private-key=~/.ssh/id_rsa_ubuntu run-python.yml
 ```
 
 You should see the debug output likes like below.
@@ -114,7 +114,7 @@ if __name__ == '__main__':
 
 ```console
 $ cd ~/bootcamp/python
-$ ansible-playbook -i runner<n>, -u ubuntu --private-key=~/.ssh/id_rsa_ubuntu custom-module.yml
+$ ansible-playbook -i runner<n>.lab.mpt.local, -u ubuntu --private-key=~/.ssh/id_rsa_ubuntu custom-module.yml
 ```
 
 You should see the console output looks like below:

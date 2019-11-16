@@ -68,7 +68,7 @@ To clear the interactive screen (like the *clear* command for Bash), enter *CTRL
 
 ```
 # Comment at the beginning of the line
-print(__main__)  # This is an inline comment
+print(__name__)  # This is an inline comment
 
 ```
 
@@ -97,6 +97,7 @@ for n in range(10):
         print(n, "is an odd number.")
 
 print("End")
+
 ```
 
 #### Variables and Scope
@@ -149,6 +150,7 @@ type(l)
 type(c)
 type(t)
 type(d)
+
 ```
 
 #### Conditionals and loops
@@ -199,15 +201,17 @@ print(sum(2, 3))
 
 You can execute a Linux command using the built in *subprocess* module. For example, the process status (**ps**). First you will need to import (load) the built in module, then use the module method, *call()*, to run the *ps* command with the *aux* options.
 
-```console
->>> import subprocess
->>> subprocess.call(["ps", "aux"])
+```
+import subprocess
+subprocess.call(["ps", "aux"])
+
 ```
 
 Let's replace the **ps** command with the **ls** command.
 
-```console
->>> subprocess.call(["ls", "-ltr"])
+```
+subprocess.call(["ls", "-ltr"])
+
 ```
 
 ### Exercise 5 - Running a Python script
@@ -334,7 +338,7 @@ ansible
 We can use the package manager to install them together by passing the *requirements.txt* file as the parameter below:
 
 ```console
-pip3 install -r requirements.txt
+pip3 install --user -r requirements.txt
 ```
 
 ### Conclusion

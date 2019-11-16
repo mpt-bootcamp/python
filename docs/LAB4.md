@@ -27,6 +27,9 @@ Open a Terminal window and enter the following shell commands:
 $ which fab
 $ fab --version
 $ fab --help
+$ ssh-agent bash
+$ ssh-add ~/.ssh/id_rsa_ubuntu
+$ cd ~/bootcamp/python
 ```
 
 The syntax to execute arbitrary/ad-hoc shell commands is:
@@ -186,19 +189,13 @@ Now run the **fab** command to upload and download the files.
 
 ```console
 $ fab --list
-$ fab -H ubuntu@runner<n>.lab.mpt.local -i ~/.ssh/id_rsa_ubuntu apacheindex apachelog
+$ fab -H ubuntu@runner<n>.lab.mpt.local -i ~/.ssh/id_rsa_ubuntu apacheindex
 ```
 
 Open the URL to check the new Apache home page:
 
 > `http://runner<n>.missionpeaktechnologies.com`
 
-View the Apache log using the console command:
-
-```
-$ cat ~/bootcamp/python/data/apache-access.log
-
-```
 
 ### Exercise 6 - Making HTTP requests
 

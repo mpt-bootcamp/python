@@ -28,13 +28,13 @@ import glob
 
 filepath = 'data/lab3-ex1.txt'
 
-print(f"Creating a file {filepath}")
+print("Creating a file {}".format(filepath))
 with open(filepath, 'w') as f:
     line = "This is an example to create a file.\nThen read it back line by line\n"
     f.write(line)
     f.write("Done\n")
 
-print(f"Reading a file {filepath}")
+print("Reading a file {}".format(filepath))
 with open(filepath, 'r') as f:
    line = f.readline()
    i = 1
@@ -70,10 +70,10 @@ import glob
 filedir = 'data/'
 
 print("Listing files in {}".format(filedir))
-with os.scandir(filedir) as entries:
-    for entry in entries:
-        if not entry.is_dir():
-            print(entry.name)
+entries = os.scandir(filedir)
+for entry in entries:
+    if not entry.is_dir():
+        print(entry.name)
 ```
 
 2. Run the script from the Terminal window.
@@ -111,17 +111,14 @@ def convert_date(timestamp):
 filedir = 'data/'
 
 print("Listing files in {}".format(filedir))
-with os.scandir(filedir) as entries:
-    for entry in entries:
-        if not entry.is_dir():
-            print(entry.name)
-    
-    # Show the file stat of the last file
-    info = entry.stat()
-    print(f'{entry.name}\t Last Modified: {convert_date(info.st_mtime)}')
-    print(f"Is directory: {entry.is_dir()}")
-    print(f"Is file: {entry.is_file()}")
-    print(f"Is symlink: {entry.is_symlink()}")
+entries = os.scandir(filedir)
+for entry in entries:
+    if not entry.is_dir():
+        print(entry.name)
+
+# Show the file stat of the last file
+info = entry.stat()
+print(info)
 
 # Without using the scandir stat function, you can use os.stat() to get the file status below
 filepath = 'data/lab3-ex1.txt'
@@ -232,12 +229,6 @@ from datetime import datetime
 # copyfile
 srcfile = "data/auth.log"
 dstfile = "temp/auth.log"
-shutil.copyfile(srcfile, dstfile)
-
-# copyfile
-srcfile = "data/auth.log"
-dstfile = "temp/auth.log"
-
 shutil.copyfile(srcfile, dstfile)
 
 # copytree

@@ -82,7 +82,7 @@ print(tools[:3])
 print(tools[3:])
 print(tools[2:4])
 print(tools[-1])
-print(tools[-3, -2])
+print(tools[-2:])
 
 ```
 
@@ -471,7 +471,7 @@ csco.groupby(["Year", "Month"]).max()
 ```
 # show the high and low line chart and save it
 lines = fb[['High','Low']].plot.line()
-pyplot.savefig('temp/FB-high-low.png')
+pyplot.savefig('data/FB-high-low.png')
 ```
 
 ### Conclusion
