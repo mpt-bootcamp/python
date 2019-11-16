@@ -1,0 +1,11 @@
+gitapi
+requests==2.22.0
+fabric==2.5.0
+scrapy
+boto3
+pandas
+netaddr
+scapy
+flask
+matplotlib
+ansible

@@ -1,0 +1,9 @@
+- hosts: all
+
+  tasks:
+    - name: execute the uname.py script on a remote host
+      script: scripts/uname.py
+      register: script_output
+
+    - debug:
+        var: script_output

@@ -1,0 +1,482 @@
+{
+    "data": [
+        {
+            "title": "Hillary Clinton: Zuckerberg should 'pay a price' for hurting democracy",
+            "news_url": "https://www.cnet.com/news/hillary-clinton-zuckerberg-should-pay-a-price-for-hurting-democracy/",
+            "image_url": "https://cdn.snapi.dev/images/v1/d/3/d33-2.jpg",
+            "text": "Clinton speaks out about social media and the \"war on truth.\"",
+            "sentiment": "Negative",
+            "type": "Article",
+            "source_name": "CNET",
+            "date": "Sat, 02 Nov 2019 19:09:12 -0400",
+            "tickers": [
+                "FB"
+            ],
+            "topics": [
+                "CEO"
+            ]
+        },
+        {
+            "title": "With a Recession Possibly on the Way, Are AT&T and Verizon Buys?",
+            "news_url": "https://www.fool.com/investing/2019/11/02/with-recession-possibly-on-the-way-are-att-and-ver.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/p/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f5446382fsmartphone-millennials-getty-6217jpgw700opresize.jpg",
+            "text": "The real strength for both businesses is wireless service, and doubling down on it should yield results.",
+            "sentiment": "Positive",
+            "type": "Article",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 02 Nov 2019 17:41:00 -0400",
+            "tickers": [
+                "T",
+                "VZ",
+                "VZA"
+            ],
+            "topics": []
+        },
+        {
+            "title": "Microsoft gives its Edge browser a new icon, not just a new brain",
+            "news_url": "https://www.cnet.com/news/microsoft-gives-its-edge-browser-a-new-icon-not-just-a-new-brain/",
+            "image_url": "https://cdn.snapi.dev/images/v1/e/d/edsq211-1.jpg",
+            "text": "The browser, overhauled with a new engine, also is getting a new icon.",
+            "sentiment": "Neutral",
+            "type": "Article",
+            "source_name": "CNET",
+            "date": "Sat, 02 Nov 2019 17:18:00 -0400",
+            "tickers": [
+                "MSFT"
+            ],
+            "topics": []
+        },
+        {
+            "title": "Inpixon (INPX) CEO Nadir Ali on Q3 2019 Results - Earnings Call Transcript",
+            "news_url": "https://seekingalpha.com/article/4301825-inpixon-inpx-ceo-nadir-ali-q3-2019-results-earnings-call-transcript",
+            "image_url": "https://cdn.snapi.dev/images/v1/f/e/transcript41.jpg",
+            "text": "Inpixon (INPX) CEO Nadir Ali on Q3 2019 Results - Earnings Call Transcript",
+            "sentiment": "Neutral",
+            "type": "Article",
+            "source_name": "Seeking Alpha",
+            "date": "Sat, 02 Nov 2019 16:56:19 -0400",
+            "tickers": [
+                "INPX"
+            ],
+            "topics": [
+                "CallScript"
+            ]
+        },
+        {
+            "title": "Bel Fuse Inc. (BELFB) CEO Dan Bernstein on Q3 2019 Results - Earnings Call Transcript",
+            "news_url": "https://seekingalpha.com/article/4301823-bel-fuse-inc-belfb-ceo-dan-bernstein-q3-2019-results-earnings-call-transcript",
+            "image_url": "https://cdn.snapi.dev/images/v1/x/4/transcript40.jpg",
+            "text": "Bel Fuse Inc. (BELFB) CEO Dan Bernstein on Q3 2019 Results - Earnings Call Transcript",
+            "sentiment": "Neutral",
+            "type": "Article",
+            "source_name": "Seeking Alpha",
+            "date": "Sat, 02 Nov 2019 16:49:09 -0400",
+            "tickers": [
+                "BELFB"
+            ],
+            "topics": [
+                "CallScript"
+            ]
+        },
+        {
+            "title": "KVH Industries, Inc. (KVHI) CEO Martin Kits Van Heyningen on Q3 2019 Results - Earnings Call Transcript",
+            "news_url": "https://seekingalpha.com/article/4301816-kvh-industries-inc-kvhi-ceo-martin-kits-van-heyningen-q3-2019-results-earnings-call",
+            "image_url": "https://cdn.snapi.dev/images/v1/z/w/transcript37.jpg",
+            "text": "KVH Industries, Inc. (KVHI) CEO Martin Kits Van Heyningen on Q3 2019 Results - Earnings Call Transcript",
+            "sentiment": "Neutral",
+            "type": "Article",
+            "source_name": "Seeking Alpha",
+            "date": "Sat, 02 Nov 2019 15:16:18 -0400",
+            "tickers": [
+                "KVHI"
+            ],
+            "topics": [
+                "CallScript"
+            ]
+        },
+        {
+            "title": "The 5 Most Oversold Nasdaq 100 Stocks For November 2019",
+            "news_url": "https://www.forbes.com/sites/tomaspray/2019/11/02/the-5-most-oversold-nasdaq-100-stocks-for-november-2019/",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/c/0x600.jpg",
+            "text": "With the major averages recording a very strong week and reaching new all-time highs which stocks have not been moving higher? The five most oversold Nasdaq 100 stocks should be watched as they could be next year’s star performers.",
+            "sentiment": "Positive",
+            "type": "Article",
+            "source_name": "Forbes",
+            "date": "Sat, 02 Nov 2019 14:35:45 -0400",
+            "tickers": [
+                "CERN",
+                "EBAY",
+                "MDLZ",
+                "SBUX",
+                "VRSK"
+            ],
+            "topics": []
+        },
+        {
+            "title": "People Are Spending Even More Time On Facebook",
+            "news_url": "https://www.fool.com/investing/2019/11/02/people-are-spending-even-more-time-on-facebook.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/z/f/m02d20190618t2i1399139737rlynxnpef5h1qfw640.jpg",
+            "text": "Management says it saw an increase in engagement on its most mature product in its most mature market.",
+            "sentiment": "Positive",
+            "type": "Article",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 02 Nov 2019 14:00:00 -0400",
+            "tickers": [
+                "FB"
+            ],
+            "topics": []
+        },
+        {
+            "title": "2 Growth Opportunities for Facebook",
+            "news_url": "https://www.fool.com/investing/2019/11/02/2-growth-opportunities-for-facebook.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/i/n/insu2222-1.jpg",
+            "text": "Management discusses two key catalysts for the social network",
+            "sentiment": "Positive",
+            "type": "Article",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 02 Nov 2019 13:31:00 -0400",
+            "tickers": [
+                "FB"
+            ],
+            "topics": []
+        },
+        {
+            "title": "Google Health is finally opening up about its plans, and they're all about search",
+            "news_url": "https://www.cnbc.com/2019/11/02/google-healths-david-feinberg-focus-on-search-for-doctors-consumers.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/a/105834311-1554475541554google.jpg",
+            "text": "Nine months into his tenure as leader of Google Health, David Feinberg is focusing on search, including better search for doctors within medical records and better results for consumers on Google's core properties.",
+            "sentiment": "Positive",
+            "type": "Article",
+            "source_name": "CNBC",
+            "date": "Sat, 02 Nov 2019 12:55:00 -0400",
+            "tickers": [
+                "GOOG",
+                "GOOGL"
+            ],
+            "topics": []
+        },
+        {
+            "title": "Here's Why Square's Free Stock Trading News Is a Big Deal",
+            "news_url": "https://www.fool.com/investing/2019/11/02/heres-why-squares-free-stock-trading-news-is-a-big.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/f/f/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f5232902fsquare-stock.png",
+            "text": "The provider of payment processing solutions wants to get trading.",
+            "sentiment": "Positive",
+            "type": "Article",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 02 Nov 2019 12:41:00 -0400",
+            "tickers": [
+                "SQ"
+            ],
+            "topics": []
+        },
+        {
+            "title": "Waymo's Latest Partnership Shows Self-Driving's Potential in Deliveries",
+            "news_url": "https://www.fool.com/investing/2019/11/02/waymos-latest-partnership-shows-self-drivings-pote.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/7/9/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f5446142fwaymo-chandler-depotjpgw700opresize.jpg",
+            "text": "Deliveries could be a huge part of the autonomous vehicle landscape, and Waymo just took another step toward them.",
+            "sentiment": "Positive",
+            "type": "Article",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 02 Nov 2019 12:06:00 -0400",
+            "tickers": [
+                "GOOG",
+                "GOOGL"
+            ],
+            "topics": [
+                "product"
+            ]
+        },
+        {
+            "title": "Twitter’s political ads ban is a distraction from the real problem with platforms",
+            "news_url": "https://techcrunch.com/2019/11/02/twitters-political-ads-ban-is-a-distraction-from-the-real-problem-with-platforms/",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/w/mw-fr132-twitte-20170727085436-zh.jpg",
+            "text": "Sometimes it feels as if Internet platforms are turning everything upside down, from politics to publishing, culture to commerce, and of course swapping truth for lies.",
+            "sentiment": "Negative",
+            "type": "Article",
+            "source_name": "TechCrunch",
+            "date": "Sat, 02 Nov 2019 12:00:42 -0400",
+            "tickers": [
+                "TWTR"
+            ],
+            "topics": []
+        },
+        {
+            "title": "ICAD, Inc. (ICAD) CEO Michael Klein on Q3 2019 Results - Earnings Call Transcript",
+            "news_url": "https://seekingalpha.com/article/4301791-icad-inc-icad-ceo-michael-klein-q3-2019-results-earnings-call-transcript",
+            "image_url": "https://cdn.snapi.dev/images/v1/p/i/transcript29.jpg",
+            "text": "ICAD, Inc. (ICAD) CEO Michael Klein on Q3 2019 Results - Earnings Call Transcript",
+            "sentiment": "Neutral",
+            "type": "Article",
+            "source_name": "Seeking Alpha",
+            "date": "Sat, 02 Nov 2019 11:46:28 -0400",
+            "tickers": [
+                "ICAD"
+            ],
+            "topics": [
+                "CallScript"
+            ]
+        },
+        {
+            "title": "nVent Electric plc (NVT) CEO Beth Wozniak on Q3 2019 Results - Earnings Call Transcript",
+            "news_url": "https://seekingalpha.com/article/4301788-nvent-electric-plc-nvt-ceo-beth-wozniak-q3-2019-results-earnings-call-transcript",
+            "image_url": "https://cdn.snapi.dev/images/v1/k/i/transcript26.jpg",
+            "text": "nVent Electric plc (NVT) CEO Beth Wozniak on Q3 2019 Results - Earnings Call Transcript",
+            "sentiment": "Neutral",
+            "type": "Article",
+            "source_name": "Seeking Alpha",
+            "date": "Sat, 02 Nov 2019 11:44:03 -0400",
+            "tickers": [
+                "NVT"
+            ],
+            "topics": [
+                "CallScript"
+            ]
+        },
+        {
+            "title": "Why Google's Fitbit deal could break its legacy of hardware failures",
+            "news_url": "https://www.cnbc.com/2019/11/02/google-fitbit-deal-may-break-legacy-of-hardware-failures.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/f/y/105796949-1552675918456screenshot2019-03-15at24844pm.png",
+            "text": "Google, which specializes in creating data tools and making a profit from them, could use Fitbit's brand and customers to help get into the health-care industry.",
+            "sentiment": "Positive",
+            "type": "Article",
+            "source_name": "CNBC",
+            "date": "Sat, 02 Nov 2019 11:05:00 -0400",
+            "tickers": [
+                "FIT",
+                "GOOG",
+                "GOOGL"
+            ],
+            "topics": [
+                "manda"
+            ]
+        },
+        {
+            "title": "Why NVIDIA Stock Jumped 15.5% in October",
+            "news_url": "https://www.fool.com/investing/2019/11/02/why-nvidia-stock-jumped-155-in-october.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/t/r/4tt-1.jpg",
+            "text": "Shares of this AI leader are coming back strong.",
+            "sentiment": "Positive",
+            "type": "Article",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 02 Nov 2019 10:02:00 -0400",
+            "tickers": [
+                "NVDA"
+            ],
+            "topics": []
+        },
+        {
+            "title": "The Google-Facebook ad duopoly is facing a bigger challenge from Snap, Pinterest and Amazon",
+            "news_url": "https://www.cnbc.com/2019/11/02/pinterest-snap-and-amazons-ads-businesses-outpaced-the-giants-in-q3.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/o/google-app-logojpgquality90stripall.jpg",
+            "text": "Snap, Pinterest and Amazon all grew their ad businesses much faster in the latest quarter than did Facebook or Google, which still dominate the industry.",
+            "sentiment": "Negative",
+            "type": "Article",
+            "source_name": "CNBC",
+            "date": "Sat, 02 Nov 2019 10:00:00 -0400",
+            "tickers": [
+                "FB",
+                "GOOG",
+                "GOOGL"
+            ],
+            "topics": []
+        },
+        {
+            "title": "Why 3D Systems Stock Gained More Than 16% in October",
+            "news_url": "https://www.fool.com/investing/2019/11/02/why-3d-systems-stock-gained-more-than-16-in-octobe.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/z/x/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f5246072f3d-printed-shoejpgw700opresize.jpg",
+            "text": "Shares of the 3D printing company significantly outperformed the market again last month, but investors should keep their optimism in check.",
+            "sentiment": "Positive",
+            "type": "Article",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 02 Nov 2019 10:00:00 -0400",
+            "tickers": [
+                "DDD"
+            ],
+            "topics": []
+        },
+        {
+            "title": "Google To Buy Fitbit For $2.1 Billion, What About Privacy Concerns?",
+            "news_url": "https://www.forbes.com/sites/brucelee/2019/11/02/google-to-buy-fitbit-for-21-billion-what-about-privacy-concerns/",
+            "image_url": "https://cdn.snapi.dev/images/v1/n/g/m02d20190830t2i1424469903rlynxnpef7t1d5w640.jpg",
+            "text": "Fitbit is getting Googled, in more ways than one.",
+            "sentiment": "Negative",
+            "type": "Article",
+            "source_name": "Forbes",
+            "date": "Sat, 02 Nov 2019 09:40:49 -0400",
+            "tickers": [
+                "FIT",
+                "GOOG",
+                "GOOGL"
+            ],
+            "topics": [
+                "manda"
+            ]
+        },
+        {
+            "title": "Retire Rich: Buy Low And Sell High Consistently",
+            "news_url": "https://seekingalpha.com/article/4300918-retire-rich-buy-low-sell-high-consistently",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/r/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f5261342fgetty-city-reflectionjpgw700opresize.jpg",
+            "text": "What if we could buy low and sell high on a consistent basis? Sounds too good to be true?",
+            "sentiment": "Neutral",
+            "type": "Article",
+            "source_name": "Seeking Alpha",
+            "date": "Sat, 02 Nov 2019 09:33:00 -0400",
+            "tickers": [
+                "ADP",
+                "AFL",
+                "BAC",
+                "ED",
+                "JNJ",
+                "LOW",
+                "MCD",
+                "MMM",
+                "MO",
+                "PG",
+                "T",
+                "TXN",
+                "WFC",
+                "XOM"
+            ],
+            "topics": []
+        },
+        {
+            "title": "Facebook's Report Shows It Only Has 1 Thing To Worry About",
+            "news_url": "https://www.fool.com/investing/2019/11/02/facebooks-report-shows-it-only-has-1-thing-to-worr.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/q/n/fb-2.jpg",
+            "text": "The social network's business is still going like gangbusters. Its reputation, on the other hand, could use some help.",
+            "sentiment": "Negative",
+            "type": "Article",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 02 Nov 2019 09:30:00 -0400",
+            "tickers": [
+                "FB"
+            ],
+            "topics": []
+        },
+        {
+            "title": "MiX Telematics Limited (MIXT) CEO Stefan Joselowitz on Q2 2020 Results - Earnings Call Transcript",
+            "news_url": "https://seekingalpha.com/article/4301764-mix-telematics-limited-mixt-ceo-stefan-joselowitz-q2-2020-results-earnings-call-transcript",
+            "image_url": "https://cdn.snapi.dev/images/v1/8/z/transcript17.jpg",
+            "text": "MiX Telematics Limited (MIXT) CEO Stefan Joselowitz on Q2 2020 Results - Earnings Call Transcript",
+            "sentiment": "Neutral",
+            "type": "Article",
+            "source_name": "Seeking Alpha",
+            "date": "Sat, 02 Nov 2019 09:26:21 -0400",
+            "tickers": [
+                "MIXT"
+            ],
+            "topics": [
+                "CallScript"
+            ]
+        },
+        {
+            "title": "3 Top Tech Stocks to Buy Now",
+            "news_url": "https://www.fool.com/investing/2019/11/02/3-top-tech-stocks-to-buy-right-now.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/z/z/fast2.jpg",
+            "text": "These companies have appealing growth prospects and could deliver market-crushing performance.",
+            "sentiment": "Positive",
+            "type": "Article",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 02 Nov 2019 09:25:00 -0400",
+            "tickers": [
+                "ESTC",
+                "JD",
+                "XLNX"
+            ],
+            "topics": []
+        },
+        {
+            "title": "Is Smartsheet in Danger of Being Crushed by Microsoft?",
+            "news_url": "https://www.fool.com/investing/2019/11/02/is-smartsheet-in-danger-of-being-crushed-by-micros.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/h/9/rf3.jpg",
+            "text": "Microsoft has a flaw, and tiny Smartsheet is taking advantage of it.",
+            "sentiment": "Neutral",
+            "type": "Article",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 02 Nov 2019 09:15:00 -0400",
+            "tickers": [
+                "SMAR"
+            ],
+            "topics": []
+        },
+        {
+            "title": "4 Lessons For Investors From Grubhub's Collapse",
+            "news_url": "https://www.fool.com/investing/2019/11/02/grubhub-had-it-coming.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/p/u/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f5444292fslide-9-source-grubhubjpgw700opresize.jpg",
+            "text": "Shares of the food-delivery app plummeted on its recent earnings report, but it was clear for months where the stock was headed.",
+            "sentiment": "Negative",
+            "type": "Article",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 02 Nov 2019 08:49:00 -0400",
+            "tickers": [
+                "GRUB"
+            ],
+            "topics": []
+        },
+        {
+            "title": "Is Microsoft a Buy?",
+            "news_url": "https://www.fool.com/investing/2019/11/02/is-microsoft-a-buy.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/h/s/micr2.jpg",
+            "text": "The trillion-dollar market cap company still offers investors a lot of value.",
+            "sentiment": "Positive",
+            "type": "Article",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 02 Nov 2019 08:05:00 -0400",
+            "tickers": [
+                "MSFT"
+            ],
+            "topics": []
+        },
+        {
+            "title": "These companies reporting earnings in the week ahead almost always beat the Street",
+            "news_url": "https://www.cnbc.com/2019/11/02/dropbox-activision-blizzard-roku-among-names-that-usually-beat-the-street.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/u/ts6.jpg",
+            "text": "A number of companies are set to report earnings next week, and according to Bespoke there are five names that consistently top analyst estimates.",
+            "sentiment": "Positive",
+            "type": "Article",
+            "source_name": "CNBC",
+            "date": "Sat, 02 Nov 2019 08:02:00 -0400",
+            "tickers": [
+                "ATVI",
+                "DBX",
+                "PLNT",
+                "ROKU",
+                "SHAK"
+            ],
+            "topics": [
+                "earnings"
+            ]
+        },
+        {
+            "title": "Startups Weekly: Understanding Uber’s latest fintech play",
+            "news_url": "https://techcrunch.com/2019/11/02/startups-weekly-understanding-ubers-latest-fintech-play/",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/o/mon2dfff-1.jpg",
+            "text": "This week, one of the largest companies to ever emerge from the Silicon Valley tech ecosystem, Uber, introduced its team focused on developing new financial products and technologies.",
+            "sentiment": "Positive",
+            "type": "Article",
+            "source_name": "TechCrunch",
+            "date": "Sat, 02 Nov 2019 08:00:51 -0400",
+            "tickers": [
+                "UBER"
+            ],
+            "topics": []
+        },
+        {
+            "title": "Google pushes further into health care with Fitbit, raising new privacy concerns",
+            "news_url": "https://www.cnet.com/news/google-pushes-further-into-health-care-with-fitbit-raising-new-privacy-concerns/",
+            "image_url": "https://cdn.snapi.dev/images/v1/l/7/fb7-4.jpg",
+            "text": "The search giant has faced blowback for its health care projects in the past.",
+            "sentiment": "Negative",
+            "type": "Article",
+            "source_name": "CNET",
+            "date": "Sat, 02 Nov 2019 08:00:15 -0400",
+            "tickers": [
+                "GOOG",
+                "GOOGL"
+            ],
+            "topics": [
+                "manda"
+            ]
+        }
+    ]
+}

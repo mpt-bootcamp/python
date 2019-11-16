@@ -1,0 +1,10 @@
+---
+- hosts: all
+
+  tasks:
+    - name: test my_router module
+      my_router: 
+      register: result
+
+    - debug: var=result  
+

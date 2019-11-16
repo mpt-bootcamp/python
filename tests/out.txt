@@ -1,0 +1,9 @@
+total 32
+drwxr-xr-x  8 issacl  staff   256B Oct 27 20:07 .
+drwxr-xr-x  9 issacl  staff   288B Oct 27 19:51 ..
+-rw-r--r--  1 issacl  staff     0B Oct 27 20:07 err.txt
+-rw-r--r--  1 issacl  staff    72B Oct 27 20:02 ls1.py
+-rw-r--r--  1 issacl  staff   536B Oct 27 20:02 ls2.py
+-rw-r--r--  1 issacl  staff   241B Oct 27 20:06 ls3.py
+-rw-r--r--  1 issacl  staff     0B Oct 27 20:07 out.txt
+-rw-r--r--  1 issacl  staff    71B Oct 27 20:02 ps1.py
