@@ -83,7 +83,7 @@ $ chmod u+x lab3-ex2.py
 $ python3 lab3-ex2.py
 ```
 
-### Exercise 3 - Getting the file attributes
+### Exercise 3 - Getting and checking file attributes
 
 For each entry in exercise 2, you can use the following functions to check the stat. 
 
@@ -138,7 +138,7 @@ $ python3 lab3-ex3.py
 ```
 
 
-### Exercise 4 - Manipulating files and directories
+### Exercise 4 - Using basic file and directory operations
 
 Many of the file and directory operations can be accomplished using methods in the **os** module.
 
@@ -201,7 +201,7 @@ $ python3 lab3-ex4.py
 $ tree temp/
 ```
 
-### Exercise 5 - Manipulating files and directories
+### Exercise 5 - Achiving and unpacking files
 
 While the **os** module provides some basic low level file operations, the **shutil** module offers a number of high level operations.
 

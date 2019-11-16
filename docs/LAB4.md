@@ -48,7 +48,7 @@ $ ssh ubuntu@console1.lab.mpt.local -i ~/.ssh/id_rsa_ubuntu -- "hostname; uptime
 $ ssh ubuntu@runner1.lab.mpt.local -i ~/.ssh/id_rsa_ubuntu -- "hostname; uptime"
 ```
 
-### Exercise 2 - Defining and running Python functions
+### Exercise 2 - Creating and running Python functions
 
 To run Python functions, you start by creating a *fabfile*, *fabfile.py* in the current directory. Then add functions to the file. From a Terminal window use vi/vim to create or open the *fabfile.py*. You can launch a text editor from Jupyterhub. Make sure you rename the file to *fabfile.py*. 
 
